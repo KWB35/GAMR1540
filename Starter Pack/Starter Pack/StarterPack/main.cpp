@@ -13,7 +13,7 @@ int main()
 	cout << "This program tests your suitability to be a programmer." << endl << endl;
 	cout << "The maximum score is 100." << endl << endl;
 
-	cout << "Your favourite food is:" << endl;
+	cout << "Your favourite food is:" << endl; 
 	cout << "A - Steamed vegetables." << endl;
 	cout << "B - Pizza." << endl;
 	cout << "C - Foie gras." << endl;
@@ -29,9 +29,9 @@ int main()
 	cout << "C - The warm glow of an LED monitor." << endl;
 	cout << "Your answer: ";
 
-	cin >> cIn;
+	cin >> cIn;// sets cIn to the inputted answer
 
-	if (cIn == 'c' || cIn == 'C') iScore = iScore + 25;
+	if (cIn == 'c' || cIn == 'C') iScore = iScore + 25;//Increases score if "corect" answer is submitted
 
 	cout << endl << endl << "What is outfit is the most suitable workwear:" << endl;
 	cout << "A - T-shirt and jeans." << endl;
@@ -39,9 +39,9 @@ int main()
 	cout << "C - Fancy dress costume." << endl;
 	cout << "Your answer: ";
 
-	cin >> cIn;
+	cin >> cIn;// sets cIn to the inputted answer
 
-	if (cIn == 'a' || cIn == 'A') iScore = iScore + 25;
+	if (cIn == 'a' || cIn == 'A') iScore = iScore + 25;//Increases score if "corect" answer is submitted
 
 	cout << endl << endl << "Your favourite web browser is:" << endl;
 	cout << "A - Safari." << endl;
@@ -49,13 +49,13 @@ int main()
 	cout << "C - None of the above." << endl;
 	cout << "Your answer: ";
 
-	cin >> cIn;
+	cin >> cIn;// sets cIn to the inputted answer
 
-	if (cIn == 'c' || cIn == 'C') iScore = iScore + 25;
+	if (cIn == 'c' || cIn == 'C') iScore = iScore + 25;//Increases score if "corect" answer is submitted
 
-	cout << endl << endl << "Your score was: " << iScore << endl << endl;
+	cout << endl << endl << "Your score was: " << iScore << endl << endl;//Displays the achieved score
 
-	if (iScore == 100)
+	if (iScore == 100)//Compares score and if required score is achieved a message is displayed depending on how well the quiz was answered
 	{
 		cout << "Congratulations, you are destined to be a programmer!" << endl;
 	}
@@ -70,9 +70,9 @@ int main()
 		cout << "Bad luck. Time for you to take nerd 101!" << endl;
 	}
 
-	cout << endl << "Goodbye" << endl;
+	cout << endl << "Goodbye" << endl;//creates a line between itself and the displayed message to say goodbye 
 
 	system("pause");
 
-	return 0;
+	return 0;//returns 0 teling the OS the program is properly run
 }

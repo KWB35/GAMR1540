@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "H:\\Documents\\GAMR1540\\Starter Pack\\Starter Pack\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{373DA24D-71B2-45AD-84F5-9BECABCF4AD9}|Week 1 - Hello World\\week 1 lab 1 - Hello World.vcxproj|H:\\Documents\\GAMR1540\\Starter Pack\\Starter Pack\\Week 1 - Hello World\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{373DA24D-71B2-45AD-84F5-9BECABCF4AD9}|Week 1 - Hello World\\week 1 lab 1 - Hello World.vcxproj|solutionrelative:Week 1 - Hello World\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{46653667-66B2-41C6-A4E8-A7013114153A}|Week 1 - Statistical Calculator\\Week 1 lab 1 - Statistical Calculator.vcxproj|H:\\Documents\\GAMR1540\\Starter Pack\\Starter Pack\\Week 1 - Statistical Calculator\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{46653667-66B2-41C6-A4E8-A7013114153A}|Week 1 - Statistical Calculator\\Week 1 lab 1 - Statistical Calculator.vcxproj|solutionrelative:Week 1 - Statistical Calculator\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E3AC96E-3207-4A9F-96E1-163A4728BE9F}|Week 1 - Variable Size Display\\Week 1 lab 1 - Variable Size Display.vcxproj|H:\\Documents\\GAMR1540\\Starter Pack\\Starter Pack\\Week 1 - Variable Size Display\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8E3AC96E-3207-4A9F-96E1-163A4728BE9F}|Week 1 - Variable Size Display\\Week 1 lab 1 - Variable Size Display.vcxproj|solutionrelative:Week 1 - Variable Size Display\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{121DE05F-A35D-4FAA-9BE9-436205C5AB34}|StarterPack\\StarterPack.vcxproj|H:\\Documents\\GAMR1540\\Starter Pack\\Starter Pack\\StarterPack\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -22,28 +26,41 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "main.cpp",
               "DocumentMoniker": "H:\\Documents\\GAMR1540\\Starter Pack\\Starter Pack\\StarterPack\\main.cpp",
               "RelativeDocumentMoniker": "StarterPack\\main.cpp",
               "ToolTip": "H:\\Documents\\GAMR1540\\Starter Pack\\Starter Pack\\StarterPack\\main.cpp",
               "RelativeToolTip": "StarterPack\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAACiAAAAAAAAAA==",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-01T11:38:59.267Z",
+              "WhenOpened": "2025-04-01T14:42:08.647Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "main.cpp",
-              "DocumentMoniker": "H:\\Documents\\GAMR1540\\Starter Pack\\Starter Pack\\Week 1 - Hello World\\main.cpp",
-              "RelativeDocumentMoniker": "Week 1 - Hello World\\main.cpp",
-              "ToolTip": "H:\\Documents\\GAMR1540\\Starter Pack\\Starter Pack\\Week 1 - Hello World\\main.cpp",
-              "RelativeToolTip": "Week 1 - Hello World\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACjAAAAAAAAAA==",
+              "Title": "Main.cpp",
+              "DocumentMoniker": "H:\\Documents\\GAMR1540\\Starter Pack\\Starter Pack\\Week 1 - Statistical Calculator\\Main.cpp",
+              "RelativeDocumentMoniker": "Week 1 - Statistical Calculator\\Main.cpp",
+              "ToolTip": "H:\\Documents\\GAMR1540\\Starter Pack\\Starter Pack\\Week 1 - Statistical Calculator\\Main.cpp",
+              "RelativeToolTip": "Week 1 - Statistical Calculator\\Main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAABpAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-01T11:19:58.272Z",
+              "WhenOpened": "2025-04-01T14:31:49.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "H:\\Documents\\GAMR1540\\Starter Pack\\Starter Pack\\Week 1 - Variable Size Display\\main.cpp",
+              "RelativeDocumentMoniker": "Week 1 - Variable Size Display\\main.cpp",
+              "ToolTip": "H:\\Documents\\GAMR1540\\Starter Pack\\Starter Pack\\Week 1 - Variable Size Display\\main.cpp",
+              "RelativeToolTip": "Week 1 - Variable Size Display\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-01T14:26:39.168Z",
               "EditorCaption": ""
             }
           ]
