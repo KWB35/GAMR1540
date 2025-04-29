@@ -1,7 +1,18 @@
 #include <iostream>
 
+using namespace std;
+
+void printGrid() 
+{
+    cout << "* * * *" <<endl << " * * * *" << endl;
+}
+
 int main()
 {
-    std::cout << "Hello World!\n";
+    printGrid();
+    printGrid();
+    printGrid();
+    printGrid();
+    cout << "Hello World!\n";
 }
 
