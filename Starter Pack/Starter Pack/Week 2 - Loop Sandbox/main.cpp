@@ -9,6 +9,7 @@ int main()
 		  //cout << iCounter << endl; //prints out the count
 	//}
 
+
 	//int iCounter; //declares variable
 	//iCounter = 1; //initialises variable
 	//while (iCounter < 11) //Tests the condition
@@ -17,6 +18,7 @@ int main()
 		  //iCounter = iCounter + 1; //increments the counter
 	//}
 
+
 	//int count; //declares variable
 	//count = 0; //initialises variable
 	//while (count < 100) //tests the condition
@@ -24,6 +26,7 @@ int main()
 		//cout << count << cout; //prints the count
 		//count++; //incremenst the count
 	//}
+
 
 	//char iInput; //declares variable
 	//do {

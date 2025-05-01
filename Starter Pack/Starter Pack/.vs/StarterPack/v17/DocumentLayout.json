@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{4DF85FF7-8FDD-4339-AB0E-8CD87D67114E}|Week 2 - Paul\u0027s Parcels\\Week 2 - Paul\u0027s Parcels.vcxproj|solutionrelative:Week 2 - Paul\u0027s Parcels\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{5B438829-E013-4DFA-A189-61BCF88BBE24}|Week 2 - Loop Sandbox\\Week 2 - Loop Sandbox.vcxproj|H:\\Documents\\GAMR1540\\GAMR1540\\Starter Pack\\Starter Pack\\Week 2 - Loop Sandbox\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5B438829-E013-4DFA-A189-61BCF88BBE24}|Week 2 - Loop Sandbox\\Week 2 - Loop Sandbox.vcxproj|solutionrelative:Week 2 - Loop Sandbox\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EFEF598A-6B2F-4EC1-A737-F2C26C133412}|Week 2 - Print Board\\Week 2 - Print Board.vcxproj|H:\\Documents\\GAMR1540\\GAMR1540\\Starter Pack\\Starter Pack\\Week 2 - Print Board\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{EFEF598A-6B2F-4EC1-A737-F2C26C133412}|Week 2 - Print Board\\Week 2 - Print Board.vcxproj|solutionrelative:Week 2 - Print Board\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -22,24 +26,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "H:\\Documents\\GAMR1540\\GAMR1540\\Starter Pack\\Starter Pack\\Week 2 - Loop Sandbox\\main.cpp",
+              "RelativeDocumentMoniker": "Week 2 - Loop Sandbox\\main.cpp",
+              "ToolTip": "H:\\Documents\\GAMR1540\\GAMR1540\\Starter Pack\\Starter Pack\\Week 2 - Loop Sandbox\\main.cpp",
+              "RelativeToolTip": "Week 2 - Loop Sandbox\\main.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-01T10:47:42.403Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.cpp",
               "DocumentMoniker": "H:\\Documents\\GAMR1540\\GAMR1540\\Starter Pack\\Starter Pack\\Week 2 - Paul\u0027s Parcels\\main.cpp",
               "RelativeDocumentMoniker": "Week 2 - Paul\u0027s Parcels\\main.cpp",
-              "ToolTip": "H:\\Documents\\GAMR1540\\GAMR1540\\Starter Pack\\Starter Pack\\Week 2 - Paul\u0027s Parcels\\main.cpp",
-              "RelativeToolTip": "Week 2 - Paul\u0027s Parcels\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "ToolTip": "H:\\Documents\\GAMR1540\\GAMR1540\\Starter Pack\\Starter Pack\\Week 2 - Paul\u0027s Parcels\\main.cpp*",
+              "RelativeToolTip": "Week 2 - Paul\u0027s Parcels\\main.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-29T15:20:24.112Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "main.cpp",
               "DocumentMoniker": "H:\\Documents\\GAMR1540\\GAMR1540\\Starter Pack\\Starter Pack\\Week 2 - Print Board\\main.cpp",
               "RelativeDocumentMoniker": "Week 2 - Print Board\\main.cpp",
@@ -52,7 +69,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "main.cpp",
               "DocumentMoniker": "H:\\Documents\\GAMR1540\\GAMR1540\\Starter Pack\\Starter Pack\\Week 2 - Functions Sandbox\\main.cpp",
               "RelativeDocumentMoniker": "Week 2 - Functions Sandbox\\main.cpp",
