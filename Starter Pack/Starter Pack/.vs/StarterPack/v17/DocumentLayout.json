@@ -3,20 +3,8 @@
   "WorkspaceRootPath": "H:\\Documents\\GAMR1540\\GAMR1540\\Starter Pack\\Starter Pack\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4DF85FF7-8FDD-4339-AB0E-8CD87D67114E}|Week 2 - Paul\u0027s Parcels\\Week 2 - Paul\u0027s Parcels.vcxproj|H:\\Documents\\GAMR1540\\GAMR1540\\Starter Pack\\Starter Pack\\Week 2 - Paul\u0027s Parcels\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{4DF85FF7-8FDD-4339-AB0E-8CD87D67114E}|Week 2 - Paul\u0027s Parcels\\Week 2 - Paul\u0027s Parcels.vcxproj|solutionrelative:Week 2 - Paul\u0027s Parcels\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B438829-E013-4DFA-A189-61BCF88BBE24}|Week 2 - Loop Sandbox\\Week 2 - Loop Sandbox.vcxproj|H:\\Documents\\GAMR1540\\GAMR1540\\Starter Pack\\Starter Pack\\Week 2 - Loop Sandbox\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5B438829-E013-4DFA-A189-61BCF88BBE24}|Week 2 - Loop Sandbox\\Week 2 - Loop Sandbox.vcxproj|solutionrelative:Week 2 - Loop Sandbox\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EFEF598A-6B2F-4EC1-A737-F2C26C133412}|Week 2 - Print Board\\Week 2 - Print Board.vcxproj|H:\\Documents\\GAMR1540\\GAMR1540\\Starter Pack\\Starter Pack\\Week 2 - Print Board\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{EFEF598A-6B2F-4EC1-A737-F2C26C133412}|Week 2 - Print Board\\Week 2 - Print Board.vcxproj|solutionrelative:Week 2 - Print Board\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1FF90B33-0163-4131-B3F6-68519098F1B0}|Week 2 - Functions Sandbox\\Week 2 - Functions Sandbox.vcxproj|H:\\Documents\\GAMR1540\\GAMR1540\\Starter Pack\\Starter Pack\\Week 2 - Functions Sandbox\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{1FF90B33-0163-4131-B3F6-68519098F1B0}|Week 2 - Functions Sandbox\\Week 2 - Functions Sandbox.vcxproj|solutionrelative:Week 2 - Functions Sandbox\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{DFF8915F-A9FD-4E2D-80C9-848FD6F66B49}|Week 3 - Arrays Sandbox\\Week 3 - Arrays Sandbox.vcxproj|H:\\Documents\\GAMR1540\\GAMR1540\\Starter Pack\\Starter Pack\\Week 3 - Arrays Sandbox\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DFF8915F-A9FD-4E2D-80C9-848FD6F66B49}|Week 3 - Arrays Sandbox\\Week 3 - Arrays Sandbox.vcxproj|solutionrelative:Week 3 - Arrays Sandbox\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -29,55 +17,20 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "main.cpp",
-              "DocumentMoniker": "H:\\Documents\\GAMR1540\\GAMR1540\\Starter Pack\\Starter Pack\\Week 2 - Loop Sandbox\\main.cpp",
-              "RelativeDocumentMoniker": "Week 2 - Loop Sandbox\\main.cpp",
-              "ToolTip": "H:\\Documents\\GAMR1540\\GAMR1540\\Starter Pack\\Starter Pack\\Week 2 - Loop Sandbox\\main.cpp",
-              "RelativeToolTip": "Week 2 - Loop Sandbox\\main.cpp",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAACMAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-01T10:47:42.403Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.cpp",
-              "DocumentMoniker": "H:\\Documents\\GAMR1540\\GAMR1540\\Starter Pack\\Starter Pack\\Week 2 - Paul\u0027s Parcels\\main.cpp",
-              "RelativeDocumentMoniker": "Week 2 - Paul\u0027s Parcels\\main.cpp",
-              "ToolTip": "H:\\Documents\\GAMR1540\\GAMR1540\\Starter Pack\\Starter Pack\\Week 2 - Paul\u0027s Parcels\\main.cpp*",
-              "RelativeToolTip": "Week 2 - Paul\u0027s Parcels\\main.cpp*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "H:\\Documents\\GAMR1540\\GAMR1540\\Starter Pack\\Starter Pack\\Week 3 - Arrays Sandbox\\main.cpp",
+              "RelativeDocumentMoniker": "Week 3 - Arrays Sandbox\\main.cpp",
+              "ToolTip": "H:\\Documents\\GAMR1540\\GAMR1540\\Starter Pack\\Starter Pack\\Week 3 - Arrays Sandbox\\main.cpp",
+              "RelativeToolTip": "Week 3 - Arrays Sandbox\\main.cpp",
+              "ViewState": "AgIAADIAAAAAAAAAAAAUwHMAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-29T15:20:24.112Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "main.cpp",
-              "DocumentMoniker": "H:\\Documents\\GAMR1540\\GAMR1540\\Starter Pack\\Starter Pack\\Week 2 - Print Board\\main.cpp",
-              "RelativeDocumentMoniker": "Week 2 - Print Board\\main.cpp",
-              "ToolTip": "H:\\Documents\\GAMR1540\\GAMR1540\\Starter Pack\\Starter Pack\\Week 2 - Print Board\\main.cpp",
-              "RelativeToolTip": "Week 2 - Print Board\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-29T14:53:47.749Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "main.cpp",
-              "DocumentMoniker": "H:\\Documents\\GAMR1540\\GAMR1540\\Starter Pack\\Starter Pack\\Week 2 - Functions Sandbox\\main.cpp",
-              "RelativeDocumentMoniker": "Week 2 - Functions Sandbox\\main.cpp",
-              "ToolTip": "H:\\Documents\\GAMR1540\\GAMR1540\\Starter Pack\\Starter Pack\\Week 2 - Functions Sandbox\\main.cpp",
-              "RelativeToolTip": "Week 2 - Functions Sandbox\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-29T14:42:08.271Z",
+              "WhenOpened": "2025-05-08T10:12:15.481Z",
               "EditorCaption": ""
             }
           ]
