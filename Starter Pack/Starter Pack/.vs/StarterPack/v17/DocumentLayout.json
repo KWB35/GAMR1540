@@ -3,8 +3,11 @@
   "WorkspaceRootPath": "H:\\Documents\\GAMR1540\\GAMR1540\\Starter Pack\\Starter Pack\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DFF8915F-A9FD-4E2D-80C9-848FD6F66B49}|Week 3 - Arrays Sandbox\\Week 3 - Arrays Sandbox.vcxproj|H:\\Documents\\GAMR1540\\GAMR1540\\Starter Pack\\Starter Pack\\Week 3 - Arrays Sandbox\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{DFF8915F-A9FD-4E2D-80C9-848FD6F66B49}|Week 3 - Arrays Sandbox\\Week 3 - Arrays Sandbox.vcxproj|solutionrelative:Week 3 - Arrays Sandbox\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Tools\\MSVC\\14.43.34808\\include\\xstring||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{654E913F-FD1D-4F03-9893-94F208D5EC62}|Week 3 - Strings\\Week 3 - Strings.vcxproj|H:\\Documents\\GAMR1540\\GAMR1540\\Starter Pack\\Starter Pack\\Week 3 - Strings\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{654E913F-FD1D-4F03-9893-94F208D5EC62}|Week 3 - Strings\\Week 3 - Strings.vcxproj|solutionrelative:Week 3 - Strings\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,14 +26,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "xstring",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Tools\\MSVC\\14.43.34808\\include\\xstring",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Tools\\MSVC\\14.43.34808\\include\\xstring",
+              "ViewState": "AgIAALwBAAAAAAAAAAASwM4BAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-08T16:02:18.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "main.cpp",
-              "DocumentMoniker": "H:\\Documents\\GAMR1540\\GAMR1540\\Starter Pack\\Starter Pack\\Week 3 - Arrays Sandbox\\main.cpp",
-              "RelativeDocumentMoniker": "Week 3 - Arrays Sandbox\\main.cpp",
-              "ToolTip": "H:\\Documents\\GAMR1540\\GAMR1540\\Starter Pack\\Starter Pack\\Week 3 - Arrays Sandbox\\main.cpp",
-              "RelativeToolTip": "Week 3 - Arrays Sandbox\\main.cpp",
-              "ViewState": "AgIAADIAAAAAAAAAAAAUwHMAAAAOAAAAAAAAAA==",
+              "DocumentMoniker": "H:\\Documents\\GAMR1540\\GAMR1540\\Starter Pack\\Starter Pack\\Week 3 - Strings\\main.cpp",
+              "RelativeDocumentMoniker": "Week 3 - Strings\\main.cpp",
+              "ToolTip": "H:\\Documents\\GAMR1540\\GAMR1540\\Starter Pack\\Starter Pack\\Week 3 - Strings\\main.cpp",
+              "RelativeToolTip": "Week 3 - Strings\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-08T10:12:15.481Z",
+              "WhenOpened": "2025-05-08T14:42:12.683Z",
               "EditorCaption": ""
             }
           ]
