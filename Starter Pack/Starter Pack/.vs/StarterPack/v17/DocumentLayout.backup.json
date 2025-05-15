@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\kianb\\GAMR1540\\GAMR1540\\Starter Pack\\Starter Pack\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7D35A17E-7A73-4425-AA93-22F754434D3D}|Week 4 - Classes\\Week 4 - Classes.vcxproj|C:\\Users\\kianb\\GAMR1540\\GAMR1540\\Starter Pack\\Starter Pack\\Week 4 - Classes\\src\\MyFirstClass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7D35A17E-7A73-4425-AA93-22F754434D3D}|Week 4 - Classes\\Week 4 - Classes.vcxproj|solutionrelative:Week 4 - Classes\\src\\MyFirstClass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{77ECD722-BA97-4E86-A71F-D1A834A7142D}|Week 4 - Time Of Day\\Week 4 - Time Of Day.vcxproj|C:\\Users\\kianb\\GAMR1540\\GAMR1540\\Starter Pack\\Starter Pack\\Week 4 - Time Of Day\\src\\timeOfDay.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{77ECD722-BA97-4E86-A71F-D1A834A7142D}|Week 4 - Time Of Day\\Week 4 - Time Of Day.vcxproj|solutionrelative:Week 4 - Time Of Day\\src\\timeOfDay.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D35A17E-7A73-4425-AA93-22F754434D3D}|Week 4 - Classes\\Week 4 - Classes.vcxproj|C:\\Users\\kianb\\GAMR1540\\GAMR1540\\Starter Pack\\Starter Pack\\Week 4 - Classes\\src\\MyFirstClass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7D35A17E-7A73-4425-AA93-22F754434D3D}|Week 4 - Classes\\Week 4 - Classes.vcxproj|solutionrelative:Week 4 - Classes\\src\\MyFirstClass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{77ECD722-BA97-4E86-A71F-D1A834A7142D}|Week 4 - Time Of Day\\Week 4 - Time Of Day.vcxproj|C:\\Users\\kianb\\GAMR1540\\GAMR1540\\Starter Pack\\Starter Pack\\Week 4 - Time Of Day\\src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{77ECD722-BA97-4E86-A71F-D1A834A7142D}|Week 4 - Time Of Day\\Week 4 - Time Of Day.vcxproj|solutionrelative:Week 4 - Time Of Day\\src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77ECD722-BA97-4E86-A71F-D1A834A7142D}|Week 4 - Time Of Day\\Week 4 - Time Of Day.vcxproj|C:\\Users\\kianb\\GAMR1540\\GAMR1540\\Starter Pack\\Starter Pack\\Week 4 - Time Of Day\\include\\timeOfDay.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{77ECD722-BA97-4E86-A71F-D1A834A7142D}|Week 4 - Time Of Day\\Week 4 - Time Of Day.vcxproj|solutionrelative:Week 4 - Time Of Day\\include\\timeOfDay.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,28 +26,41 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MyFirstClass.h",
-              "DocumentMoniker": "C:\\Users\\kianb\\GAMR1540\\GAMR1540\\Starter Pack\\Starter Pack\\Week 4 - Classes\\src\\MyFirstClass.h",
-              "RelativeDocumentMoniker": "Week 4 - Classes\\src\\MyFirstClass.h",
-              "ToolTip": "C:\\Users\\kianb\\GAMR1540\\GAMR1540\\Starter Pack\\Starter Pack\\Week 4 - Classes\\src\\MyFirstClass.h",
-              "RelativeToolTip": "Week 4 - Classes\\src\\MyFirstClass.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "timeOfDay.h",
+              "DocumentMoniker": "C:\\Users\\kianb\\GAMR1540\\GAMR1540\\Starter Pack\\Starter Pack\\Week 4 - Time Of Day\\include\\timeOfDay.h",
+              "RelativeDocumentMoniker": "Week 4 - Time Of Day\\include\\timeOfDay.h",
+              "ToolTip": "C:\\Users\\kianb\\GAMR1540\\GAMR1540\\Starter Pack\\Starter Pack\\Week 4 - Time Of Day\\include\\timeOfDay.h",
+              "RelativeToolTip": "Week 4 - Time Of Day\\include\\timeOfDay.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-15T10:48:23.092Z",
+              "WhenOpened": "2025-05-15T11:23:52.912Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MyFirstClass.cpp",
-              "DocumentMoniker": "C:\\Users\\kianb\\GAMR1540\\GAMR1540\\Starter Pack\\Starter Pack\\Week 4 - Classes\\src\\MyFirstClass.cpp",
-              "RelativeDocumentMoniker": "Week 4 - Classes\\src\\MyFirstClass.cpp",
-              "ToolTip": "C:\\Users\\kianb\\GAMR1540\\GAMR1540\\Starter Pack\\Starter Pack\\Week 4 - Classes\\src\\MyFirstClass.cpp",
-              "RelativeToolTip": "Week 4 - Classes\\src\\MyFirstClass.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Title": "timeOfDay.cpp",
+              "DocumentMoniker": "C:\\Users\\kianb\\GAMR1540\\GAMR1540\\Starter Pack\\Starter Pack\\Week 4 - Time Of Day\\src\\timeOfDay.cpp",
+              "RelativeDocumentMoniker": "Week 4 - Time Of Day\\src\\timeOfDay.cpp",
+              "ToolTip": "C:\\Users\\kianb\\GAMR1540\\GAMR1540\\Starter Pack\\Starter Pack\\Week 4 - Time Of Day\\src\\timeOfDay.cpp",
+              "RelativeToolTip": "Week 4 - Time Of Day\\src\\timeOfDay.cpp",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-15T10:48:03.272Z",
+              "WhenOpened": "2025-05-15T11:16:31.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\kianb\\GAMR1540\\GAMR1540\\Starter Pack\\Starter Pack\\Week 4 - Time Of Day\\src\\main.cpp",
+              "RelativeDocumentMoniker": "Week 4 - Time Of Day\\src\\main.cpp",
+              "ToolTip": "C:\\Users\\kianb\\GAMR1540\\GAMR1540\\Starter Pack\\Starter Pack\\Week 4 - Time Of Day\\src\\main.cpp",
+              "RelativeToolTip": "Week 4 - Time Of Day\\src\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-15T11:16:26.159Z",
               "EditorCaption": ""
             }
           ]
